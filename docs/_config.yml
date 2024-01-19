@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Broom Radio Docs
+title: The Broom Radio
 email: thebromdiscord@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, welcome to v1.0 of the broom docs
+  Hello, welcome to v0.1 of the broom wiki
   
   
 baseurl: "" # the subpath of your site, e.g. /blog
