@@ -5,6 +5,6 @@ permalink: /donate/
 ---
 
 
-![logo](/assets/broomlogo.jpg)
+![logo](/assets/logo.jpg)
 
 Testing PDFs [PDFtest](/assets/test.pdf).
