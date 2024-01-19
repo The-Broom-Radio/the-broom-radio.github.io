@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+### Welcome to the broom
+![logo](/assets/broomlogo.jpg)
+
+Testing PDFs [PDFtest](/assets/test.pdf).
