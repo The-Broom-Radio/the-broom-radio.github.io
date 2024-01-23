@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: hoda's REAL page
 permalink: /hodarealtestpage/
 category_name: hoda
