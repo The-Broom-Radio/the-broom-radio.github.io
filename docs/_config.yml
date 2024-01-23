@@ -36,12 +36,11 @@ mastodon:
 
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 minima:
   skin: dark
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-seo-tag
 
 
