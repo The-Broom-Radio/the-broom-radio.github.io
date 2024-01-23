@@ -2,7 +2,7 @@
 layout: post
 title:  "Second post"
 date:   2024-01-19
-category: hoda
+category: Hoda
 ---
 
-Welcome to the broom's second post!
+Welcome to the Second post for the broom

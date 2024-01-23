@@ -1,8 +1,8 @@
 ---
-layout: category
+layout: page
 title: hoda's REAL page
 permalink: /hodarealtestpage/
-category_name: hoda
+category_name: Hoda
 ---
 ### Welcome THE real hoda's page!
 
