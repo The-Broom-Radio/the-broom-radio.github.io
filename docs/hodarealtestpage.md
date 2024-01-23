@@ -5,12 +5,8 @@ permalink: /hodarealtestpage/
 ---
 ### Welcome THE real hoda's page!
 
-Pull up in the monster
-Automobile gangsta
-with a bad b***
-that came from sri lanka
-- the great nicki minaj
+this is a test ~
 
 
 
-What an ICON! **OBVI ~**
+thank you.
